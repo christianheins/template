@@ -23,7 +23,7 @@ def main():
     })
 
     #Pages
-    page_real_estate_general_dashboard = "ambelin.py"
+    page_real_estate_general_dashboard = "streamlit_app.py"
     page_maps = "pages/maps.py"
 
     show_pages(
